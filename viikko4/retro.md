@@ -1,0 +1,5 @@
+Retrospektitekniikat auttavat saamaan yhteistä ymmärrystä tiimin invalidualistisesta tilanteesta, mielipiteestä ja jopa huolenaiheista tehdyistä osaprojektista / sprinteistä ja sen avulla voidaan rakentaa ja iteroida parempaa lähestymistapaa projektille ja sprinteille.
+
+"Start, Stop, Continue, More of, Less of Wheel" retrospektitekniikoilla tiimin jäsenet voivat individuaalisesti laatia mielipiteensä näihin bokseihin, esimerkiksi jos tiimin jäsen haluaa ottaa jonkun uuden käytännön niin se "arkistoidaan" Start otsikon alle huomaen miten näitä toteutetaan, joko taululle / jollakin ohjelmalle. Näin huomataan jäsenten mielipiteet ja katsotaan kollektiivisesti parhaat mahdolliset ratkaisut ongelmille.
+
+"Glad, Sad, Mad" retrospektitekniikoilla pyritään saamaan tietoja tiimin jäsenten fiiliksistä projektiin liittyen ja sen mukaan iteroimaan ja mahdollisesti parantamaan näitä tuntemuksia. Esimerkiksi jos tiimin jäsen kokee surullisuutta jotakin projektiin liittyvään seikkaan hän voisi laittaa tiedon "Sad" otsikon alle.
